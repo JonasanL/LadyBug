@@ -25,9 +25,6 @@ These instructions will get you a copy of the project up and running on your loc
 :heavy_check_mark:Android Studio\
 :heavy_check_mark:Java 7 or higher version
 
-# Give examples
-More coming...
-
 # Built With
 :heavy_check_mark:Android Studio\
 :heavy_check_mark:SQLite\
